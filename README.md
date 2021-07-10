@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DonAdinyaev
 - 👀 I’m interested in making life simpler
 - 🌱 I’m currently learning Java, HTML, CSS, Javascript, Angular.js, React and other things
-- 💞️ I’m looking to collaborate with Snoop Dog on most happy city in the World 
-- 📫 Email me - don.adinyaev@gmail.com
+- 📫 Email me - email@email.email
