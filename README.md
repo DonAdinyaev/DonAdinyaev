@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @DonAdinyaev
-- 👀 I’m interested in making life simpler
-- 🌱 I’m currently learning Java, HTML, CSS, Javascript, Angular.js, React and other things
+- 🌱 I’m currently learning Java, HTML, CSS, Javascript, Angular, React and other things
 - 📫 Email me - email@email.email
